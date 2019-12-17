@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>cross</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Iconset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cross" fill="currentColor" fill-rule="nonzero">
+            <path d="M14.35355,13.6464432 L27.9999466,4.66094067e-05 L28.7070534,0.707153391 L15.0606568,14.35355 L28.7070534,27.9999466 L27.9999466,28.7070534 L14.35355,15.0606568 L0.707053391,28.7071534 L-5.33905932e-05,28.0000466 L13.6464432,14.35355 L-5.33905932e-05,0.707053391 L0.707053391,-5.33905933e-05 L14.35355,13.6464432 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

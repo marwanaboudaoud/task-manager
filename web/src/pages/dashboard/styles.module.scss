@@ -1,0 +1,51 @@
+.forta {
+  color: rgb(229, 5, 94);
+}
+
+.menuLogo {
+  width: 20px;
+  height: 20px;
+  margin-left: 30px;
+}
+
+h5 {
+  margin-left: 10px;
+  font-weight: bold !important;
+}
+
+.dashboardcontainer {
+  box-shadow: 15px 2px 11px 0px lightgrey;
+  height: 100vh;
+  overflow-y: scroll;
+  @media (max-width: 990px) {
+    height: auto;
+  }
+
+  @media (min-width: 990px) {
+    max-width: 22% !important;
+  }
+}
+
+.p {
+  margin: 10px;
+  color: rgb(229, 5, 94);
+  font-weight: 400;
+}
+
+.dashboardcontainer::-webkit-scrollbar {
+  width: 6px;
+}
+
+.dashboardcontainer::-webkit-scrollbar-thumb {
+  background-color: rgb(229, 5, 94);
+  border-radius: 20px;
+}
+
+.test {
+  position: fixed;
+  bottom: 0;
+}
+
+.nav {
+  box-shadow: none !important;
+}

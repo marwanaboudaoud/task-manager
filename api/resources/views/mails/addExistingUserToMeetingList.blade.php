@@ -1,0 +1,1 @@
+You are added to the list "{{ $name }}"

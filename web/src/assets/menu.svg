@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>01 General/Burger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01-General/Burger" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M5,12 C4.44771525,12 4,11.5522847 4,11 C4,10.4477153 4.44771525,10 5,10 L43,10 C43.5522847,10 44,10.4477153 44,11 C44,11.5522847 43.5522847,12 43,12 L5,12 Z" id="Path" fill="#292F48" fill-rule="nonzero"></path>
+        <path d="M5,25 C4.44771525,25 4,24.5522847 4,24 C4,23.4477153 4.44771525,23 5,23 L43,23 C43.5522847,23 44,23.4477153 44,24 C44,24.5522847 43.5522847,25 43,25 L5,25 Z" id="Path" fill="#292F48" fill-rule="nonzero"></path>
+        <path d="M5,38 C4.44771525,38 4,37.5522847 4,37 C4,36.4477153 4.44771525,36 5,36 L28.9986052,36 C29.55089,36 29.9986052,36.4477153 29.9986052,37 C29.9986052,37.5522847 29.55089,38 28.9986052,38 L5,38 Z" id="Path" fill="#292F48" fill-rule="nonzero"></path>
+    </g>
+</svg>
